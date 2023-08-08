@@ -2,6 +2,10 @@
 
 Is a second iteration of a sensor capture database in the city of Bucaramanga.
 
+## Architecture
+
+![architecture](https://github.com/hidromatologia-v2/docs/blob/main/assets/architecture.png)
+
 ## Repositories
 
 | Repository                                                  | Description                                                  |
