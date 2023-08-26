@@ -6,6 +6,17 @@ Is a second iteration of a sensor capture database in the city of Bucaramanga.
 
 ![architecture](https://github.com/hidromatologia-v2/docs/blob/main/assets/architecture.png)
 
+## Documentation
+
+| Document                                                     | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Database.md](https://github.com/hidromatologia-v2/docs/blob/main/Database.md) | Database entity relationship diagrams                        |
+| [CICD.md](CICD.md)                                           | Documentation about the CI/CD pipelines implemented in the project. |
+| [CONTRIBUTING.md](CONTRIBUTING.md)                           | Contribution manual.                                         |
+| [Use cases.md](Use%20cases.md)                               | System use cases                                             |
+| [microservices.drawio](microservices.drawio)                 | Infrastructure diagram                                       |
+| [diagrams.mdj](diagrams.mdj)                                 | Use case, packages and deployment diagrams in **StarUML**.   |
+
 ## Repositories
 
 | Repository                                                  | Description                                                  |
